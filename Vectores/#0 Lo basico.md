@@ -17,9 +17,7 @@ Ahora tenemos un problema, ¿Cómo se pueden distinguir los distintos valores? E
 Por ejemplo, si queremos guardar los valores 5, 7 y 4, podríamos escribir algo como:
 
 ```c++
-	
 	int a = { 5, 7, 4 }
-
 ```
 De esta dorma 'a' contendría en cada posición los números 5, 7 y 4, guardados en la primera, segunda y tercera posición.
 
@@ -34,17 +32,13 @@ Por lo que si queremos guardar "hola" en una variable podríamos hacer:
 
 
 ```c++
-	
 	a = "Hola"
-	
 ```
 
 Pero en escencia es lo mismo que hacer:
 
 ```c++
-	
 	a = { 'H', 'o', 'l', 'a' }
-
 ```
 
 > * Estos ejemplos son sólo conceptuales
