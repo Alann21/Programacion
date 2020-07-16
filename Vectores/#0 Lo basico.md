@@ -57,7 +57,7 @@ y si queremos asignarle los valores desde un inicio no se utilizan corchetes sin
 	int vector = { 4, 6, 3, 8}; 	// un vector con los valores 4, 6, 3 y 8 
 ```
 
-### <span style="color:red">Cuidado</span>
+## Cuidado
 
 no se pueden asignar varios valores a un vector luego de crearlo (declararlo);
 
