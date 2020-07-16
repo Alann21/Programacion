@@ -13,3 +13,11 @@ Sí es verdad que al principio te va a parecer que hay muchas cosas en pantalla,
 <img src="/img/code.png" style="max-width:80%;">
 
 Debajo de esa pestaña están todas las carpetas y archivos del repositorio, y justo arriba te dice dónde estás. En este caso, estás dentro de mi perfil, en el repositorio "Programación". Si entrás a una carpeta o abrís un archivo, se va a agregar a la barra de dirección (exactamente igual que la barra de dirección de windows). 
+
+
+<object border="2" type="text/html">
+        <h1>Títular</h1>
+        <p>Breve descripción del artículo o documento</p>
+        <hr>
+        <p>Explicación y/o cuerpo del cocumento </p>
+</object>
