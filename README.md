@@ -10,6 +10,6 @@ Si no entendés nada no te preocupes, ya te vas a acostumbrar.
 Sí es verdad que al principio te va a parecer que hay muchas cosas en pantalla, vos sólo quedate en la pestaña que dice ` <> Code `.
 
 
-<img src="/img/code.png" BORDER=10>
+<img src="/img/code.png" BORDER=5>
 
 Debajo de esa pestaña están todas las carpetas y archivos del repositorio, y justo arriba te dice dónde estás. En este caso, estás dentro de mi perfil, en el repositorio "Programación". Si entrás a una carpeta o abrís un archivo, se va a agregar a la barra de dirección (exactamente igual que la barra de dirección de windows). 
