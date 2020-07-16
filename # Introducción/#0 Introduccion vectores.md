@@ -79,7 +79,7 @@ int vector = { 4, 6, 3, 8 }; 	// un vector con los valores 4, 6, 3 y 8
 
 
 
-> ###### __Nota:__
+> ## __Nota:__
 > No se pueden asignar varios valores a la vez a un vector después de que haya sido creado. \
 > __Este código no funciona:__
 >```c++
