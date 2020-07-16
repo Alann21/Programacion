@@ -16,6 +16,7 @@ Debajo de esa pestaña están todas las carpetas y archivos del repositorio, y j
 
 
 <object border="2" type="text/html">
+        <style>h1 { color:red; }</style
         <h1>Títular</h1>
         <p>Breve descripción del artículo o documento</p>
         <hr>
