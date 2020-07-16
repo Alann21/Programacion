@@ -42,3 +42,29 @@ Pero en escencia es lo mismo que hacer:
 ```
 
 >  _Estos ejemplos son sólo conceptuales_
+
+## Declarar Vectores
+
+Los vectores se declaran como las variables, se coloca el tipo de valor y luego el nombre. La diferencia es que hace falta agregar corchetes para indicarle la cantidad de valores que va a tener:
+
+```c++
+	int vector[4]; 		// un vector de 4 valores
+```
+
+y si queremos asignarle los valores desde un inicio no se utilizan corchetes sino llaves luego de un símbolo igual:
+
+```c++
+	int vector = { 4, 6, 3, 8}; 	// un vector con los valores 4, 6, 3 y 8 
+```
+
+### Cuidado:
+
+no se pueden asignar varios valores a un vector luego de crearlo (declararlo);
+
+__Este código *no* funciona:__
+
+```c++
+	int vector[4];
+
+	vector = { 4, 6, 3 ,8};
+```
