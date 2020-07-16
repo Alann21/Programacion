@@ -11,3 +11,5 @@ Sí es verdad que al principio te va a parecer que hay muchas cosas en pantalla,
 
 
 <img src="/img/code.png" >
+
+Debajo de esa pestaña están todas las carpetas y archivos del repositorio, y justo arriba te dice dónde estás. En este caso, estás dentro de mi perfil, en el repositorio "Programación". Si entrás a una carpeta o abrís un archivo, se va a agregar a la barra de dirección (exactamente igual que la barra de dirección de windows). 
