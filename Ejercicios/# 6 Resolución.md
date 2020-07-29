@@ -96,7 +96,7 @@ for (i = 0; i < n; ++i) {       // I va a ir desde 0 hasta llegar a 'n'.
 Ahora sólo repetimos lo mismo pero para la lista 'b'.
 
 ```c++
-printf("Ingrese los valores de la lista A\n");
+printf("Ingrese los valores de la lista B\n");
 for (i = 0; i < n; ++i) {
     scanf("%d", &b[ i ]);
 }
